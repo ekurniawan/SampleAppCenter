@@ -8,7 +8,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Net Conf 2019" />
+        <Label Text="Welcome to Net Xamarin" />
         <Label Text="Insert text from Hot Reload" />
     </StackLayout>
 
